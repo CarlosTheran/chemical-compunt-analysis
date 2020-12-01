@@ -1,0 +1,4 @@
+In order to run Elemnet or other chemical data you must:
+1. activate the vitual enviroment project_cawt_1x
+	* this enviroment has installed the requirement described in https://github.com/CarlosTheran/chemical-compunt-analysis
+2. Then run the code presented in elemnet (https://github.com/CarlosTheran/chemical-compunt-analysis) following the respective instructions.	  
