@@ -11,4 +11,6 @@ Now, once you have finished with the enviroment configuration and the installati
 `spark-submit --master yarn --deploy-mode client <algoritms.py> --config_file sample/sample-run.config`
 
 
-<algoritms.py> = dl_regressors.py or dl_regressors_irnet.py or dl_regressors_svm.py.
+`<algoritms.py> = dl_regressors.py or dl_regressors_irnet.py or dl_regressors_svm.py`.
+
+In order to configure your Cloud Platform using Hadoop and Spark, please visit the repositories [HDFS](https://github.com/CarlosTheran/Hadoop) and [SPARK](https://github.com/CarlosTheran/Spark). Also you can found additional information at [pyspark_examples](https://github.com/CarlosTheran/pyspark_examples).
